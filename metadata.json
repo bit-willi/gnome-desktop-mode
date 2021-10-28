@@ -1,0 +1,8 @@
+{
+  "name": "Lid inhibitor",
+  "description": "Inhibit block screen when HDMI is connected",
+  "uuid": "lidInhibitor@gnome-shell-extension.bit-will.github.com",
+  "shell-version": [
+    "40"
+  ]
+}
